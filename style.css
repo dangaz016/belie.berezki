@@ -1,0 +1,34 @@
+h3{
+    display: flex;
+    justify-content: left;
+}
+
+h3:hover{
+    color: darkblue;
+}
+
+header{
+    background-color: whitesmoke;
+    border: 2px solid black;
+}
+
+img{
+    display: flex;
+    margin: 10px;
+}
+
+.text{
+    background-color: white;
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-top: 50px;
+}
+
+footer h3{
+    color: white;
+    padding: 15px;
+}
+
+footer{
+    margin-top: 40px;
+}
